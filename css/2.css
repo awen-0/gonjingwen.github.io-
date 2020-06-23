@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+a{text-decoration: none;}
+.nnn {
+    width: 1600px;
+    height: 800px;
+    margin: 0 auto;
+    background: url(../img/1.jpg);
+}
+
+.nnn .nnn1 {
+    width: 159px;
+    height: 25px;
+    position: absolute;
+    /*绝对定位*/
+    top: 80px;
+    left: 730px;
+}
+.nnn1 h1{
+    color: rgb(255, 255, 255);
+}
+.nnn1 h1:hover{
+    color: rgb(105, 104, 104);
+}
+
+.nnn .nnn2 {
+    width: 628px;
+    height: 156px;
+    position: absolute;
+    /*绝对定位*/
+    top: 260px;
+    left: 480px;
+}
+
+.nnn2 img {
+    margin-left: 55px;
+}
+
+.nnn .nnn3 {
+    width: 615px;
+    height: 24px;
+    position: absolute;
+    /*绝对定位*/
+    top: 425px;
+    left: 482px;
+}
+
+.nnn3 img {
+    margin-left: 65px;
+}
+
+.nnn .nnn4 {
+    width: 115px;
+    height: 37px;
+    position: absolute;
+    /*绝对定位*/
+    top: 600px;
+    left: 720px;
+}
+
+.nnn4 p {
+    margin-top: 7px;
+    margin-left: 33px;
+}
+
+.nnn4 p a {
+    padding: 5px 24px;
+    border: 1px solid rgb(253, 253, 253);
+    border-radius: 10px;
+    color: rgb(252, 252, 252);
+}
+
+.nnn4 p a:hover {
+    color: rgb(248, 143, 6);
+}
